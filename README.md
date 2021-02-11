@@ -1,4 +1,4 @@
-# AI-Crop-Classification
+# AI Crop Classification
 
 ## Table of Contents ##
 
