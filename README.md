@@ -32,7 +32,7 @@
 | Problem | Overview |
 | :---------- | :---------- |
 |  |  |
-| Crop – Tomato <br> Location – Dharmapuri Dist <br> Date : 03/11/2020 <br> Price Crash due to Over cultivation | பாலபாலக்கோடு தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனைக்கோடு தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனை <br> https://www.youtube.com/watch?v=Nnlpd42X-iE |
+| Crop – Tomato <br> Location – Dharmapuri Dist <br> Date : 03/11/2020 <br> __Price Crash due to Over cultivation__ | பாலபாலக்கோடு தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனைக்கோடு தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனை <br> https://www.youtube.com/watch?v=Nnlpd42X-iE |
 
 - - - -
 
