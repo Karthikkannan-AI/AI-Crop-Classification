@@ -33,6 +33,8 @@
 | :---------- | :---------- |
 |  |  |
 | Crop – Tomato <br> Location – Dharmapuri Dist <br> Date : 03/11/2020 <br> __Price Crash due to Over cultivation__ | பாலபாலக்கோடு தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனைக்கோடு தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனை <br> https://www.youtube.com/watch?v=Nnlpd42X-iE |
+| Crop – Brinjol <br> Location –Dindugal District <br> Date : 08/10/2020 <br> __Price Crash due to Over cultivation__ | வசாயி வேதனை - விலை போகாததால் நஷ்டம் <br> https://www.youtube.com/watch?v=5oFl4vceP2o |
+| Crop – Ladies Finger <br> Location – Haveri, Karnataka <br> Date : 03/03/2020 <br> __Price Crash due to Over cultivation__ | விலை வீழ்ச்சி.. பூண்டுகளை சாலையில் கொட்டிய விவசாயிகள் /| Karnataka /| Garlic Price /| farmers <br> https://www.youtube.com/watch?v=nAEipsdQUMY |
 
 - - - -
 
