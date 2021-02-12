@@ -43,9 +43,6 @@
 ## Solution ##
 
 
-
-- - - -
-
 ### Solution Workflow ###
 
 Image Classification is a computer vision technique in which a Drone image is classified into one of the designated classes (Paddy crop, Coconut plantation and Unplanted Barren Land)  based on the Drone image features. 
@@ -54,7 +51,6 @@ Image Classification is a computer vision technique in which a Drone image is cl
 
 <img src="https://github.com/Karthikkannan-AI/AI-Crop-Classification/blob/main/resources/Solution%20Workflow%202.png">
 
-- - - -
 
 ### Evaluation of the Proposed Solution ###
 
