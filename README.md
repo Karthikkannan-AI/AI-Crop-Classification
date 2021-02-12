@@ -32,9 +32,12 @@
 | Problem | Overview |
 | :---------- | :---------- |
 |  |  |
-| Crop – Tomato <br> Location – Dharmapuri Dist <br> Date : 03/11/2020 <br> __Price Crash due to Over cultivation__ | பாலபாலக்கோடு தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனைக்கோடு தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனை <br> https://www.youtube.com/watch?v=Nnlpd42X-iE |
+| Crop – Tomato <br> Location – Dharmapuri Dist <br> Date : 03/11/2020 <br> __Price Crash due to Over cultivation__ | பாலபாலக்கோடு \| தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனைக்கோடு \| தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனை <br> https://www.youtube.com/watch?v=Nnlpd42X-iE |
 | Crop – Brinjol <br> Location –Dindugal District <br> Date : 08/10/2020 <br> __Price Crash due to Over cultivation__ | வசாயி வேதனை - விலை போகாததால் நஷ்டம் <br> https://www.youtube.com/watch?v=5oFl4vceP2o |
 | Crop – Ladies Finger <br> Location – Haveri, Karnataka <br> Date : 03/03/2020 <br> __Price Crash due to Over cultivation__ | விலை வீழ்ச்சி.. பூண்டுகளை சாலையில் கொட்டிய விவசாயிகள் \| Karnataka \| Garlic Price \| farmers <br> https://www.youtube.com/watch?v=nAEipsdQUMY |
+| Crop – Ladies Finger <br> Location – Salem District <br> Date : 17/11/2020 <br> __Price Crash due to Over cultivation__ | வெண்டைக்காய் கிலோ 2 ரூபாய்க்கு விற்பனை! விவசாயிகள் வேதனை \|\| Salem \|\| WinNews <br> https://www.youtube.com/watch?v=YD2MJQS0oDc |
+| Crop – Brinjol <br> Location – Dharmapuri District <br> Date : 05/05/2020 <br> __Price Crash due to Over cultivation__ <br> __Crop Dumped in Lake__ | "கத்தரிக்காய் சாகுபடி செய்த விவசாயிகள் வேதனை : கத்தரிக்காயை ஏரியில் கொட்டிய விவசாயிகள்" <br> https://www.youtube.com/watch?v=pHoSYPKfh7M |
+| Crop – Ladies Finger <br> Location – Theni District <br> Date : 18/11/2020 <br> __Price Crash due to Over cultivation__ <br> __Crop Dumped in River__ | தேனி அருகே விவசாயிகள் வெண்டைக்காய்களை ஆற்றில் கொட்டும் அவலம் \| LadysFinger \| Farmers \| Theni <br> https://www.youtube.com/watch?v=t34gi6_T_yM |
 
 - - - -
 
