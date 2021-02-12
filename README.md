@@ -3,7 +3,9 @@
 ## Table of Contents ##
 
 * [Introduction](https://github.com/Karthikkannan-AI/AI-Crop-Classification#introduction)
-* [Problem]()
+* [Problem](https://github.com/Karthikkannan-AI/AI-Crop-Classification#problem)
+  * [Analysis of the Problem](https://github.com/Karthikkannan-AI/AI-Crop-Classification#analysis-of-the-problem)
+  * [Facts](https://github.com/Karthikkannan-AI/AI-Crop-Classification#facts)
 * [Solution](https://github.com/Karthikkannan-AI/AI-Crop-Classification#solution)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/AI-Crop-Classification#solution-workflow)
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/AI-Crop-Classification#evaluation-of-the-proposed-solution)
