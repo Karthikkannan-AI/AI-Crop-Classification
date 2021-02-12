@@ -37,6 +37,7 @@ Image Classification is a computer vision technique in which a Drone image is cl
 
 <img src="https://github.com/Karthikkannan-AI/AI-Crop-Classification/blob/main/resources/Solution%20Workflow%201.png">
 
+<img src="https://github.com/Karthikkannan-AI/AI-Crop-Classification/blob/main/resources/Solution%20Workflow%202.png">
 
 - - - -
 
