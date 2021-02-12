@@ -25,11 +25,19 @@
 
 ### Analysis of the Problem ###
 
-
+<img src="https://github.com/Karthikkannan-AI/AI-Crop-Classification/blob/main/resources/Problem%201.png">
 
 ### Facts ###
 
-
+| Problem | Overview |
+| :---------- | :---------- |
+|  |  |
+| Crop – Tomato 
+Location – Dharmapuri Dist 
+Date : 03/11/2020
+Price Crash due to Over cultivation  | பாலபாலக்கோடு | தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனை
+க்கோடு | தக்காளி விலை கடும் வீழ்ச்சி விவசாயிகள் வேதனை
+https://www.youtube.com/watch?v=Nnlpd42X-iE |
 
 - - - -
 
