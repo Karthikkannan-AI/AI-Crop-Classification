@@ -54,7 +54,7 @@ Image Classification is a computer vision technique in which a Drone image is cl
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/KBDD5xrcrfQ" target="_blank"><img src="https://github.com/Karthikkannan-AI/Farmer-Facial-Recognition/blob/main/resources/Farmer%20Face%20Recognition.png"/></a>
+<a href="https://youtu.be/KBDD5xrcrfQ" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Crop-Classification/blob/main/resources/AI%20Crop%20Classification.png"/></a>
 
 - - - -
 
