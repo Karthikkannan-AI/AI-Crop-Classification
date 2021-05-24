@@ -17,7 +17,7 @@
 
 ## Introduction ##
 
-
+Here we showcase the Power of Deep Learning in identifying the crops from the Drone Imagery. Crop identification is important to precise agriculture as traditional survey is labor intensive 
 
 - - - -
 
@@ -60,7 +60,7 @@ Image Classification is a computer vision technique in which a Drone image is cl
 
 ## Conclusion ##
 
-
+This approach can be used by Government officials to identify and estimate the crop acreage.  
 
 - - - -
 
